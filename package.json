@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.2",
+    "jest": "^27.5.1"
+  },
+  "name": "challenge10-teamprofilegenerator",
+  "description": "## Description This project is a Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person. There are also unit tests for each part of code.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarabarnett/Challenge10-teamprofilegenerator.git"
+  },
+  "author": "Sara Barnett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sarabarnett/Challenge10-teamprofilegenerator/issues"
+  },
+  "homepage": "https://github.com/Sarabarnett/Challenge10-teamprofilegenerator#readme"
+}
